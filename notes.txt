@@ -1,0 +1,198 @@
+#provides list w/file details
+ll
+
+#opens file
+open notes.txt
+
+#lists command history
+history
+
+#removes file
+rm notes.txt
+
+#creates file
+touch notes.txt
+
+#creates directory
+mkdir notebook
+
+#changes directory to HOME directory
+cd
+cd ~
+
+#moves to parent directory
+cd ..
+
+#lists file details
+ls -l
+
+#shows 'tree' of file directory (w/level suffixes)
+tree -L 2
+tree -L 1
+
+#installs tree visualizer
+brew install tree
+
+#clears visible history
+clear
+
+
+ls -R
+ls -i
+ls -F
+ls -1
+
+#
+man ls
+ls -g
+ls g
+ls -r
+ls -s
+ls -lt
+ls -t
+open ./Desktop/
+open .
+pwd
+which whoami
+whoami
+open http://mikeduin.surge.sh
+open http://wcrusher.surge.sh
+surge
+git commit -m "Add a CNAME"
+git commit -m
+git commit -m CNAME "Add a CNAME"
+git add CNAME
+touch CNAME
+git commit -m "Add a tiny web page"
+git add index.html
+open index.html
+atom .
+touch index.html
+git init
+cd mikeduin.surge.sh/
+mkdir mikeduin.surge.sh
+mkdir ~/Projects
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew link --overwrite node
+brew install node
+brew doctor
+xcode-select --install
+brew install git
+rm /usr/local/Cellar/git/2.7.1
+rm '/usr/local/bin/git'
+rm '/usr/local/bin/git']
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.email "michael.s.duin@gmail.com"
+git config --global user.name "Mike Duin"
+git --version
+which git
+which echo
+echo $PATH
+echo $EDITOR
+cd ./michaelduin
+cd ./users /michaelduin
+atom ~/.config/fish/config.fish
+cat (git rev-parse --show-toplevel)/.git/config
+cat git (rev-parse --show-toplevel)/.git/config
+git remote -v
+git push origin master
+git push or
+git commit -m "Personal website"
+git add -A
+cd ./duin-mike/
+cd ./dui
+cd ./your-solution
+cd ./_06_personal-project/
+git cd./_06_personal-project
+git clone https://github.com/gSchool/prework.git
+git add -A
+git add -A application .js images mikeduin.css page1.html page2.html
+cd ./
+_06_personal-project/
+cd ./prework
+cd ./Desktop/
+git
+brew info
+git clone https://github.com/mikeduin/Spoon-Knife.git
+cd ./de
+brew info fish
+brew in
+fish_update_completions
+cd ./desktop
+curl -fsSL https://git.io/vgqFU | ruby
+git commit -m "Include solution for git rese
+cd ./duin-mike
+cd ./_02_html
+git clone https://github.com/mikeduin/prework.git
+git clone https://github.com/gSchool
+git clone https://github.com/mikeduin
+git clone https://github.com/mikeduin/prework.gi
+ssh -T git@github.com
+ls -l ~/.ssh
+ssh-add -l
+eval "$(ssh-agent -s)"
+ssh -vT git@github.com
+ssh-add -l -E md5
+cd ./galvanize
+cd ./users
+git clone https://github.com/mikeduin/prework/tree/master/_02_html
+pbcopy < ~/.ssh/id_rsa.pub
+pbcopy < ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_rsa
+ssh-keygen -t rsa -b 4096 -C "michael.s.duin@gmail.com"
+ls al ~/.ssh
+eval $"(ssh-agent ps)"
+touch main.css
+cd ./stylesheets
+mkdir stylesheets
+cd ./assets
+mkdir assets
+cd ./Styles-Conference
+cd ./Styles Conference
+ssh-add ~/.ssh/9d:c0:24:09:f7:f3:04:d7:21:da:61:f0:b9:94:da:f0 michael.s.duin@gmail.com
+ssh-add ~/.ssh/id_rsa9d:c0:24:09:f7:f3:04:d7:21:da:61:f0:b9:94:da:f0 michael.s.duin@gmail.com
+Generating public/private rsa key pair.
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+ls -al ~/.ssh
+git --no-pager log > log.txt
+git log
+git config - -global user.email "michael.s.duin@gmail.com"
+git config  - -global user.email <michael.s.duin@gmail.com>
+git config - -global user.email <michael.s.duin@gmail.com>
+cd git-practice
+cd galvanize
+git config --global --edit
+git commit -m "adding new files"
+git commit - "adding new files"
+git add new_file
+touch new_file
+mkdir git-practice
+mv nyan.ttf ~/Library/Fonts/
+cd ./downloads
+touch unix-commands.txt
+./prework
+./ prework
+mkdir prework
+cd ./glavanize
+mkdir galvanize
+rm -rf test
+rm -i test
+cp TestFile.rtf /users/michaelduin/dropbox
+cp TestFile.rtf TestFile-Copy.rtf
+cd ./test
+cd ./Test
+cd ./ users
+cd..
+cd /users/michaelduin/dropbox
+cd ./documents
+wget https://github.com/wiggin15/SublimeNyan/raw/master/Nyan.ttf -O ~/Library/Fonts/Nyan.ttf
+sudo nano /etc/hosts
+sudo nano /private/etc/hosts
+/sudo nano /etc/hosts
+sude nano /etc/hosts
